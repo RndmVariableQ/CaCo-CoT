@@ -4,7 +4,7 @@ Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via P
 
 ## Requirements
 
-Before you proceed, make sure to install the necessary packages by running the following command:
+Before you proceed, make sure to install the necessary Python packages by running the following command:
 
 ```
 pip install -r requirements.txt
@@ -47,7 +47,7 @@ python run_scienceqa.py \
     	--label sciqa_ours_gpt_0 \
     	--test_split test \
 	--txt_only \
-	--num_workers 48 \
+	--num_workers 8 \
 	--test_number -1 \
 	--shot_number 0 \
 	--top_p 0.4 \
