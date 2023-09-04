@@ -1,5 +1,5 @@
 # CaCo-CoT
-Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via Promoting Causal Consistency in LLMs. Visit [here](https://arxiv.org/abs/2308.11914) for the Arxiv version paper. 
+[Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via Promoting Causal Consistency in LLMs](https://arxiv.org/abs/2308.11914) 
 
 
 ## Requirements
