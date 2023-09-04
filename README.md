@@ -1,5 +1,5 @@
 # CaCo-CoT
-Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via Promoting Causal Consistency in LLMs
+Towards CausalGPT: A Multi-Agent Approach for Faithful Knowledge Reasoning via Promoting Causal Consistency in LLMs. Visit [here](https://arxiv.org/abs/2308.11914) for the Arxiv version paper. 
 
 
 ## Requirements
@@ -13,7 +13,7 @@ pip install -r requirements.txt
 Then, follow the steps below to download and set up the datasets:
 
 1. **Download the ScienceQA dataset**:
-   - Visit [Dataset Link](https://www.your_dataset_link_here.com) (replace this with the actual link to the dataset).
+   - Visit [Dataset Link](https://www.your_dataset_link_here.com). 
    - Download the dataset files.
 
 2. **Directory Structure**:
