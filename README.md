@@ -44,8 +44,8 @@ To run text-only ScienceQA, use the command below. Remember to replace `YOUR-API
 ```
 python run_scienceqa.py \
 	--data_root ./datasets/ScienceQA \
-    --label sciqa_ours_gpt_0 \
-    --test_split test \
+    	--label sciqa_ours_gpt_0 \
+    	--test_split test \
 	--txt_only \
 	--num_workers 48 \
 	--test_number -1 \
